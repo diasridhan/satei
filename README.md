@@ -1,5 +1,11 @@
 <h3 align="center">This is a simple responsive website using HTML, CSS, and JS</h3>
 
+<h3>View in Desktop</h3>
+<img align="center" width="1000" src="https://raw.githubusercontent.com/diasridhan/satei/main/satei.png" /> 
+
+<h3>View in Phone</h3>
+<img align="center" width="1000" src="https://raw.githubusercontent.com/diasridhan/satei/main/satei-phone.png" /> 
+
 - 👨‍💻 All of my projects are available at [https://diasridhan.github.io/](https://diasridhan.github.io/)
 
 - 💬 Ask me about **Programing and Networking**
