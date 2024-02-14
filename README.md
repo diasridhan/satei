@@ -4,7 +4,7 @@
 <img align="center" width="1000" src="https://raw.githubusercontent.com/diasridhan/satei/main/satei.png" /> 
 
 <h3>View in Phone</h3>
-<img align="center" width="500" src="https://raw.githubusercontent.com/diasridhan/satei/main/satei-phone.png" /> 
+<img align="center" width="300" src="https://raw.githubusercontent.com/diasridhan/satei/main/satei-phone.png" /> 
 
 - 👨‍💻 All of my projects are available at [https://diasridhan.github.io/](https://diasridhan.github.io/)
 
