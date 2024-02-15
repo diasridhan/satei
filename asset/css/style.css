@@ -183,6 +183,10 @@ img{
   transition: 0.3s;
 }
 
+.home-data-button {
+  box-shadow: 7px 5px 56px -14px var(--body-color);
+}
+
 /* ===== MEDIA QUERIES ===== */
 
 /* LAPTOP */
